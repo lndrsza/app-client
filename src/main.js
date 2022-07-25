@@ -15,10 +15,4 @@ new Vue({
   vuetify,
   render: h => h(App),
   router: Router
-}).$mount('#app')
-
-
-
-
-
-//zeca aqui
+}).$mount('#app') 
